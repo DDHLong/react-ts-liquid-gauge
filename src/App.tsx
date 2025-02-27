@@ -1,4 +1,3 @@
-import "./App.css";
 import LiquidFillGauge from "./components/LiquidFillGauge/liquid-fill-gauge";
 
 function App() {
