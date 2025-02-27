@@ -23,7 +23,7 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "tsup",
+    "build": "tsc -b && vite build",
     "lint": "eslint .",
     "bundle": "tsup src/index.ts"
   },
@@ -70,5 +70,10 @@
     "typescript",
     "liquid gauge"
   ],
-  "homepage": "https://github.com/longddh/react-ts-liquid-gauge"
+  "homepage": "https://github.com/longddh/react-ts-liquid-gauge",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/longddh/react-ts-liquid-gauge.git"
+  },
+  "github": "https://github.com/longddh/react-ts-liquid-gauge"
 }
