@@ -1,7 +1,7 @@
 {
   "name": "react-ts-liquid-gauge",
   "private": false,
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "A liquid gauge component for React with type support",
   "main": "dist/index.js",
   "module": "dist/index.js",
