@@ -1,5 +1,4 @@
 import { defineConfig } from "tsup";
-import { TsconfigPathsPlugin } from "@esbuild-plugins/tsconfig-paths";
 
 export default defineConfig({
   clean: true,
@@ -12,10 +11,6 @@ export default defineConfig({
   minify: true,
   target: "esnext",
   outDir: "dist",
-  plugins: [
-    TsconfigPathsPlugin({
-      tsconfig: "./tsconfig.json",
-    }),
-  ],
+  tsconfig: "tsconfig.app.json",
   external: ["react", "react-dom"],
 });
