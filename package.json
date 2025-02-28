@@ -1,7 +1,7 @@
 {
   "name": "react-ts-liquid-gauge",
   "private": false,
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "A liquid gauge component for React with type support",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -68,10 +68,10 @@
     "typescript",
     "liquid gauge"
   ],
-  "homepage": "https://github.com/longddh/react-ts-liquid-gauge",
+  "homepage": "https://github.com/DDHLong/react-ts-liquid-gauge",
   "repository": {
     "type": "git",
-    "url": "https://github.com/longddh/react-ts-liquid-gauge"
+    "url": "https://github.com/DDHLong/react-ts-liquid-gauge"
   },
-  "github": "https://github.com/longddh/react-ts-liquid-gauge"
+  "github": "https://github.com/DDHLong/react-ts-liquid-gauge"
 }
