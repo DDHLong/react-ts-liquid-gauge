@@ -2,6 +2,9 @@
 
 React TS Liquid Gauge component with circle and rectangle shape. It's heavily inspired by [react-liquid-gauge](https://github.com/trendmicro-frontend/react-liquid-gauge).
 
+![Image](https://github.com/user-attachments/assets/fc4f2a9a-daa4-433c-9feb-2aff51ddbd52)
+![Image](https://github.com/user-attachments/assets/16c27256-672b-4b19-86e0-c389e999fa66)
+
 ## Installation
 
 ```bash
